@@ -1,0 +1,108 @@
+* {
+  border: 1px dott
+}
+
+body {
+  margin: 0;
+  padding: 95px;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #f2f2f2;
+}
+
+.gregbutton {
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  color: black;
+}
+
+.gregtext {
+  font-size: 20px;
+  margin-left: 15px;
+  text-decoration: none;
+}
+
+.navtop {
+  position: absolute;
+  right: 10px;
+  top: 15px;
+}
+
+.navbutton {
+  text-decoration: none;
+  padding: 5px;
+  color: purple;
+  font-size: 20px;
+}
+
+.psearch {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+.searchbar {
+  width: 450px;
+  height: 25px;
+  margin-right: 2px;
+  border-radius: 5px;
+}
+
+.searchbutton {
+  width: 38px;
+  height: 30px;
+  background-color: white;
+  vertical-align: bottom;
+  border-radius: 5px;
+}
+
+.magnifyingglass {
+  height:100%;
+  margin-right: 10px;
+}
+
+.searchnav {
+  display: inline-block;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  height: 18px;
+  border: 1px solid grey;
+  padding: 9px;
+  border-radius: 5px;
+}
+
+.prevnext {
+  text-decoration: none;
+  color: black;
+  padding: 10px;
+}
+
+.searchpages {
+  border-left: 1px solid grey;
+  border-right: 1px solid grey;
+  padding: 10px;
+}
+
+.jobs {
+  padding: 0;
+}
+
+.jobpost {
+  margin-bottom: 15px;
+  list-style: none;
+}
+
+.joblist {
+  margin-right: 15px;
+  margin-left: 15px;
+  text-decoration: none;
+  color: purple;
+  font-weight: bold;
+}
